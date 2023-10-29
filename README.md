@@ -1,4 +1,4 @@
-# Recipe Management System
+# <h1 align ="center"> Recipe Management System<h1/>
 
 A Spring Boot-based application for managing and searching recipes. The application supports CRUD operations on recipes, including name, ingredients, and instructions. Additionally, it allows users to comment on recipes and search for recipes based on name and ingredients.
 
