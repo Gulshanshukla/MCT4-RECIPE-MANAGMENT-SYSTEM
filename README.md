@@ -1,6 +1,19 @@
 # <h1 align ="center"> Recipe Management System<h1/>
 
 A Spring Boot-based application for managing and searching recipes. The application supports CRUD operations on recipes, including name, ingredients, and instructions. Additionally, it allows users to comment on recipes and search for recipes based on name and ingredients.
+<p align ="center">
+<a href="Java url"> 
+  <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg"/>
+</a>
+<a href="Maven url"> 
+  <img alt="Maven" src="https://img.shields.io/badge/maven-4.0.0-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.4-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+</a>
 
 ## Features
 
