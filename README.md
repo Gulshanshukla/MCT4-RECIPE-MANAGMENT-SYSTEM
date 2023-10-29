@@ -9,7 +9,7 @@ A Spring Boot-based application for managing and searching recipes. The applicat
   <img alt="Maven" src="https://img.shields.io/badge/maven-4.0.0-brightgreen.svg"/>
 </a>
 <a href="Spring Boot url"> 
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.4-brightgreen.svg"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.5-brightgreen.svg"/>
 </a>
 <a href="Spring Boot url"> 
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
