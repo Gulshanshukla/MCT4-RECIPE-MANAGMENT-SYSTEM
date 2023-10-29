@@ -72,6 +72,11 @@ A Spring Boot-based application for managing and searching recipes. The applicat
   - Search for recipes by name or ingredients.
   - Add comments to recipes.
 
+  ## project summary
+  In summary ,this project is a recipe management system that allows two types of users the admin and the
+  user,to perform CRUD operations on recipes.The project uses the MVC architecture to make the code modular and redable.
+  It utilizes various technologies such as Spring Boot,Java,and MYsql database to provide an efficient Recipe Management System.
+
 ## Contributors
 
 - [gulshanshukla](https://github.com/gulshanshukla)
